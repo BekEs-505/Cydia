@@ -1,0 +1,1 @@
+bash -c "cd /var/mobile/Cydia; ./update.sh"
