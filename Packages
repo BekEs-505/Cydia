@@ -68,6 +68,24 @@ Name: AdBlocker
 Author: BekEs - بيكاس
 Sponsor: thebigboss.org
 
+Package: com.bekes-505.github.io.cask3
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: @B6_7E
+Installed-Size: 812
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Replaces: com.ryannair05.cask2
+Filename: ./debs//com.bekes-505.github.io.cask3_1.0.0_iphoneos-arm.deb
+Size: 368882
+MD5sum: 58fd5861c60abc913395ada7a42f5947
+SHA1: 7b8448462dc205432165a09e97bd169c6f9ca243
+SHA256: 1e75afdb6170fa075d74b754188b6cd9435aa606c6eb7b1c00584475b4aa3e0f
+SHA512: b0e26d4e9513d470745fff42b5644754df7b8a22fa2773bff988534688b4e2e212a9398fc8d0bcd8862a105c8f2a7c5c2c5d8e6f28b9609d9624ea9df5d3c4b7
+Description: اداة وظيفتها : تحريك القواٸم بشكال متعدده ♡♡ ‏♯̶!.
+Name: Cask 3
+Author: BekEs - بيكاس
+
 Package: com.bekes-505.github.io.relicloader
 Architecture: iphoneos-arm
 Version: 3.3.3
