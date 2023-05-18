@@ -171,6 +171,27 @@ Description: ادوات وظيفتهم : توقيع التطبيقات بشها�
 Name: TrollStore Helper + PermasigneriOS
 Author: BekEs - بيكاس
 
+Package: com.miro.uyou
+Architecture: iphoneos-arm
+Version: 3.0
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 31200
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./debs//com.miro.uyou_3.0_iphoneos-arm.deb
+Size: 10945544
+MD5sum: 6e90876b685ad1eae2aee1def694d282
+SHA1: 6e4a32013bbc8ed27c7c385d9cf3ada1d5cd326c
+SHA256: 8c196e42d661420b2b6494ebf7e8162baa7c632839276f706c6508d36dc92f98
+SHA512: 3a9ce95e7a3a9967dbb622112a42081292781d225e0ce7a3c258a2ef76a0f2a541f91b55484c5e89c3c619d2d4d672c472951497ef22ba2836084d1204af5f8b
+Description: The best tweak for the YouTube app
+Tag: purpose::extension, compatible_min::ios13
+Name: uYou
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+
 Package: com.toyopagroup.picaboo2022
 Architecture: iphoneos-arm
 Version: 11.71.0
