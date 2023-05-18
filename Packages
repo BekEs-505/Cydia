@@ -171,7 +171,7 @@ Description: ادوات وظيفتهم : توقيع التطبيقات بشها�
 Name: TrollStore Helper + PermasigneriOS
 Author: BekEs - بيكاس
 
-Package: com.miro.uyou
+Package: com.bekes-505.github.io.uyou16
 Architecture: iphoneos-arm
 Version: 3.0
 Section: Tweaks
@@ -179,16 +179,15 @@ Maintainer: MiRO <tweaks_support@miro92.com>
 Installed-Size: 31200
 Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
 Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
-Filename: ./debs//com.miro.uyou_3.0_iphoneos-arm.deb
-Size: 10945544
-MD5sum: 6e90876b685ad1eae2aee1def694d282
-SHA1: 6e4a32013bbc8ed27c7c385d9cf3ada1d5cd326c
-SHA256: 8c196e42d661420b2b6494ebf7e8162baa7c632839276f706c6508d36dc92f98
-SHA512: 3a9ce95e7a3a9967dbb622112a42081292781d225e0ce7a3c258a2ef76a0f2a541f91b55484c5e89c3c619d2d4d672c472951497ef22ba2836084d1204af5f8b
-Description: The best tweak for the YouTube app
+Filename: ./debs//com.bekes-505.github.io.uyou16_3.0_iphoneos-arm.deb
+Size: 14728120
+MD5sum: 1e43c13c3ff377aa9a5107338d0395d9
+SHA1: 5ca29f612492dd30ae51cfcb2d3e4d23c5bdd560
+SHA256: 19d2c302fe4c85c8ec54685e5035a00e2ea152fd12fa501a993164fca621146a
+SHA512: c5ed72cd1e97ac338d1f31526ed39559df51fef6692d3d0d75f13d40a57e502b3d6079c036aab3ca72f0c31e8f29cc0e6001d11fd8ff7205b7f16d0e0ab63143
+Description: اداة وظيفتها : يوتيوب لبس لتحميل المقاطع والصوت وحذف الاعلانات ♡♡ ‏♯̶!.
 Tag: purpose::extension, compatible_min::ios13
 Name: uYou
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
 
