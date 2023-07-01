@@ -1,0 +1,2 @@
+bash -c "cd /Users/lengran/Documents/GitHub/repo; ./Updeta.sh;"
+exit
