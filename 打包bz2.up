@@ -1,2 +1,2 @@
-bash -c "cd /Users/lengran/Documents/GitHub/repo; ./Updeta.sh;"
+bash -c "cd /var/mobile/Cydia; ./Updeta.sh;"
 exit

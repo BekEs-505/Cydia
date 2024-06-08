@@ -447,6 +447,24 @@ Author: ‏αвσ яαĸαη✨
 Name: Notchification تعريب
 Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
+Package: com.arab-cydia.Q8DVDBreak
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.arab-cydia.q8dvdbreak_1.0-1_iphoneos-arm.deb
+Size: 4658
+MD5sum: bd0c14d919db61398b66be2e3332aa59
+SHA1: 4aec2ac266c250a4b10e8d99549ce36910ac216d
+SHA256: ced25cc3b8a9b125eff89d6eeabec5cef372912e7380c14b371c9d7e80b72aac
+Section: Tweak_
+Priority: optional
+Description: اخفاء الجلبريك عن تطبيق Q8DVD
+Author: @FahadAljuwausri
+Icon: NULL\r\n
+Name: Q8DVDBreak
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
 Package: com.arab-cydia.StatusBarHideApps
 Version: 0.0.1-1
 Architecture: iphoneos-arm
@@ -5620,6 +5638,22 @@ Description: ثيم خاص بااداة  FrontPage
 Author: JunesiPhone <junesgraphics@gmail.com>
 Name: iOSDroid
 
+Package: com.arab-cydia.fppiano
+Version: 0.2-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate, com.arab-cydia.frontpage
+Filename: ./debs/com.arab-cydia.fppiano_0.2-1_iphoneos-arm.deb
+Size: 13976010
+MD5sum: 8e8497f7a6bdbe7a96bb4c751ef75186
+SHA1: 7f461bfeeaf78031562a67bc19ebf45ef29cd435
+SHA256: d130ba58dc4588c1d1d6d902034b5649c40cd559455df139b45d7713ace360d0
+Section: Addons_
+Description: اضافة لااداة FrontPage
+Author: JunesiPhone <junesgraphics@gmail.com>
+Name: Piano for FrontPage
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/>
+
 Package: com.arab-cydia.frontpage
 Version: 1.3.5-1
 Architecture: iphoneos-arm
@@ -10613,6 +10647,23 @@ Icon: https://repo.conorthedev.com/img/nicecc.png
 Name: NiceCC
 Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
+Package: com.arab-cydia.nightmodeui
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.nightmodeui_1.0-1_iphoneos-arm.deb
+Size: 11536
+MD5sum: 494ade93d782ee6a128ea9e3c6c7c933
+SHA1: d98ff9e416a204e9f63cc058c6d96f0500d89a39
+SHA256: 28285c4e4e6e32aa6f00ad5a2d6fa2947866a8994fec6f2adbf1ef14873a4d97
+Section: Tweak_
+Description: الوضع الليلي لتطبيق الهاتف
+Author: αвσ яαĸαη
+Name: Phone Night Mode
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
 Package: com.arab-cydia.noadsin365scores
 Version: 0.0.1-1+debug-1
 Architecture: iphoneos-arm
@@ -11882,6 +11933,22 @@ Description: ثيم لااداة  FrontPage
 Author: JunesiPhone <junesgraphics@gmail.com>
 Name: Nyx
 
+Package: com.arab-cydia.oblong
+Version: 1.3.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Filename: ./debs/com.arab-cydia.oblong_1.3.0-1_iphoneos-arm.deb
+Size: 37586
+MD5sum: 5e8b5dec551ac3bad40753ea4700b8b6
+SHA1: 97a08c8e70d6bdc308329218e1bf216251b59a8b
+SHA256: 3359cf849e67ddb8f12aebeae75c40fc2cc36fb4618ed094a0f835e16d6db061
+Section: Widgets_
+Description: ويدجيت للشاشه الرئيسية التقعيل عن طريق XenHTML
+Author: 0neGuyDev
+Icon: file:///private/var/mobile/Library/iWidgets/oblong clock/Icon.png
+Name: oblong clock
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
 Package: com.arab-cydia.obscure
 Version: 1.1.5-1
 Architecture: iphoneos-arm
@@ -11950,6 +12017,20 @@ Author: Pulandres
 Name: Music Obscure
 Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
+Package: com.arab-cydia.octane
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Filename: ./debs/com.arab-cydia.octane_1.0-1_iphoneos-arm.deb
+Size: 625460
+MD5sum: 2c5dd01f3d89382ec37ee256fe9d2d35
+SHA1: 023a0cacef3d4b35f305322957eaa24f90d3742a
+SHA256: c130d9b47ad06521f0c67fd0cc4d9e8dccf60d52f258031740d4ffa419edcbd0
+Section: Widgets_
+Description: XenHTML widget (Uses XenInfo)
+Author: Shade Zepheri
+Name: Octane
+
 Package: com.arab-cydia.onlinenotify
 Version: 2.3.23-1
 Architecture: iphoneos-arm
@@ -12007,6 +12088,24 @@ Author: Tateu (based on n00neimp0rtant)
 Name: OpenNotifier11 - tateu
 Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
+Package: com.arab-cydia.opennotifier12
+Version: 2.5.0~beta7-1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 1199
+Depends: firmware (>=11.0), mobilesubstrate, libstatus9 | libmoorecon | libstatusbar, preferenceloader, applist
+Conflicts: com.n00neimp0rtant.opennotifier, net.tateu.opennotifier, net.tateu.opennotifierbeta, net.tateu.opennotifier9, net.tateu.opennotifier10
+Provides: com.n00neimp0rtant.opennotifier, net.tateu.opennotifier
+Filename: ./debs/com.arab-cydia.opennotifier12_2.5.0~beta7-1-1_iphoneos-arm.deb
+Size: 220460
+MD5sum: b2f17c6a183567c68b42eb48e7c23977
+SHA1: 787c152b203e61e37ebf83e350f830c41022321e
+SHA256: b9c559d10441b0aa1c2187f31b4cefb047dfc22bf2a419b566133bfa7eaf47fd
+Section: Supports IOS12.x
+Description: إضافة أيقونات التطبيقات في البار العلوي عن وصول الإشعارات
+Author: tateu (based on n00neimp0rtant) <tateu@tateu.net>
+Name: OpenNotifier12 - tateu
+
 Package: com.arab-cydia.opennotifierappleciicons
 Version: 0.0.1-1
 Architecture: iphoneos-arm
@@ -12022,6 +12121,22 @@ Description: اضافة ايقونات دائرية الشكل لعرض الاش
  OpenNotifier
 Author: A7med.y
 Name: OpenNotifier Apple Ci icons
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.opennotifierapplecircleicons
+Version: 0.1.1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.opennotifierapplecircleicons_0.1.1-1_iphoneos-arm.deb
+Size: 3889794
+MD5sum: e65db7dc3be6ee11271570024f4d520b
+SHA1: d2f3dbc87086798249d3e3242ac69ab16db12994
+SHA256: 5dea5b52841062435e760a0035d003d59a6cdc2ac475417287b7bc8b06eeb9e2
+Section: Supports IOS12.x
+Description: اضافة ايقونات لااداة OpenNotifier
+Author: A7med.y
+Name: OpenNotifier Apple Circle icons
 Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
 Package: com.arab-cydia.opennotifierapplesq2icons
@@ -12058,6 +12173,22 @@ Author: A7med.y
 Name: OpenNotifier Apple Sq icons
 Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
+Package: com.arab-cydia.opennotifierapplesquareicons
+Version: 0.0.7-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.opennotifierapplesquareicons_0.0.7-1_iphoneos-arm.deb
+Size: 246682
+MD5sum: 38bd9731634648622d379f861665fd1d
+SHA1: eb0b7176f40e83b629521bd1d4ec78a8c65d14c3
+SHA256: c87f5cdd59723033026410e4e227c4f6baee3706879bbeb8287c27425745cab4
+Section: Addons_
+Description: اضافة ايقونات لااداة OpenNotifier
+Author: A7med.y
+Name: OpenNotifier Apple Square icons
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
 Package: com.arab-cydia.opennotifierflaticonpack
 Version: 5.0.3-1
 Architecture: iphoneos-arm
@@ -12088,6 +12219,70 @@ Description: ايقونات تابعة لااداة OpenNotifier                
 Author: poetic_folly <rwmeo2004@hotmail.com>
 Name: OpenNotifier Premium Pack
 
+Package: com.arab-cydia.opennotifiert3
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 1199
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.opennotifiert3_1.0-1_iphoneos-arm.deb
+Size: 1844
+MD5sum: 66083d3fd5acf6be24eb5ef80359c0a8
+SHA1: 50dff93ff1b54442b80e779d7ca5a04e560333aa
+SHA256: 89e1fd177061f806835365ab593db3ee57bbb7261c83351fd8a2a6e67af795ff
+Section: T3reb
+Description: OpenNotifier تعريب
+Author: ‏αвσ яαĸαη✨
+Name: OpenNotifier تعريب
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.opennotifiertwelvecircleicons
+Version: 0.0.4-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.opennotifiertwelvecircleicons_0.0.4-1_iphoneos-arm.deb
+Size: 119582
+MD5sum: 45158c8cef7941463e29c9efd35bea76
+SHA1: 42ee8028410a2ee820f438a647c3ebeb20860e56
+SHA256: b902d3ce57c2ad7f32c7b756c02907d43b352671289ee0cecd093a589ca245ad
+Section: Addons_
+Description: اضافة ايقونات لااداة OpenNotifier
+Author: A7med.y
+Name: OpenNotifier Twelve Circle icons
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.opennotifiertwelvesquareicons
+Version: 0.0.4-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.opennotifiertwelvesquareicons_0.0.4-1_iphoneos-arm.deb
+Size: 91138
+MD5sum: 01e784f83ddab9e16eedf60667c26aee
+SHA1: 40a2d7fb47a899d1c48e1bd8638703aa1b1372b4
+SHA256: 8ea1c9b5e030b3b671b2a876c1b480c8dd47188e856a551262dd74f70ffd5c2c
+Section: Addons_
+Description: اضافة ايقونات لااداة OpenNotifier
+Author: A7med.y
+Name: OpenNotifier Twelve Square icons
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.ophonescroll
+Version: 0.0~beta2-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.ophonescroll_0.0~beta2-1_iphoneos-arm.deb
+Size: 4614
+MD5sum: 0173c1eb155501750294e03f6224d52d
+SHA1: 07f7ed93e303772ed5387f9e8caab7d7ecaac1f3
+SHA256: 3fc26155749d66bbe29bd2cb77d352bb40165617cbbd7fa9cbca1a769d4be610
+Section: Tweak_
+Description: Tap In Selected Tap Bar For Scroll To Top
+Author: julioverne
+Name: PhoneScroll
+
 Package: com.arab-cydia.optix
 Version: 0.0.3b-4-1
 Architecture: iphoneos-arm
@@ -12104,6 +12299,528 @@ Description: تغيير الوان الواجهات الرئيسية في الن
 Author: smokin1337
 Name: OptiX
 Sponsor: Arab-Cydia <https://arab-cydia.com>
+
+Package: com.arab-cydia.otadisabler11
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: firmware (>= 11.0), system-cmds, mobilesubstrate
+Filename: ./debs/com.arab-cydia.otadisabler11_1.0.1-1_iphoneos-arm.deb
+Size: 200368
+MD5sum: 82e6b1a86ab63f71e2b5c7c05a4ebd4b
+SHA1: 701b07fe460e467fc47c7067fd7718e477d6c16e
+SHA256: 4f83ff53342c34f19eabef11f46ca3a87f44ce63d2a04af23d3860fdc042631d
+Section: System_
+Description: ايقاف التحديث التلقائي لااصدار جهازك فقط للاجهزة ذات المعالج bit64
+Author: Zlab Team & Yangcheesen <yanhcheesen999@gmail.com>
+Icon: file///Library/Logo.png
+Name: OTADisabler11
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.arab-cydia.owo
+Version: 0.2.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 156
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.arab-cydia.owo_0.2.0-1_iphoneos-arm.deb
+Size: 10414
+MD5sum: ea078fd5f1bb1aa42e5921a5f063b7f7
+SHA1: 606ef66132e46a320153aede2ba5ccf3422bdef1
+SHA256: 3c230a9c4176a1c4bce03af3c4a1dbee85f78bc94b5bf4fa54da9d163aec1e71
+Section: Supports IOS12.x
+Description: جعل اشعارات شاشة القفل اكثر جمالاً
+Author: Nepeta
+Name: OwO
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.palert
+Version: 1.1.0-2-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.arab-cydia.palert_1.1.0-2-1_iphoneos-arm.deb
+Size: 134448
+MD5sum: 427ad032deabab8bb3693bd2793f1c0e
+SHA1: 76a4c0c0b790f1155c6155f094520a381b10dc6a
+SHA256: 7e4d2f20165bc0df2541c888efb1d3869344a4272805ab576a93f310fa0914a5
+Section: Supports IOS12.x
+Description: شكل اشعارات Apple Tv على الآيفون
+Author: Integeritis
+Icon: file:///Library/PreferenceBundles/PalertPreferences.bundle/palert@2x.png
+Name: Palert
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.palette
+Version: 1.1.1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 720
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.arab-cydia.palette_1.1.1-1_iphoneos-arm.deb
+Size: 405930
+MD5sum: b515ddad9da05cf75f6ac7fef6720463
+SHA1: 950cdab7add61ab21e1ede88e9cf5d426fc5d845
+SHA256: 48fcebed8898b8a1e9d6f626306f13729b3af2280f33de93023aeced466747eb
+Section: Tweak_
+Description: تلوين الاشعارات حسب لون التطبيق
+Author: Maxwell Dausch
+Name: Palette
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/>
+
+Package: com.arab-cydia.parallax
+Version: 1.3-2-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Filename: ./debs/com.arab-cydia.parallax_1.3-2-1_iphoneos-arm.deb
+Size: 34361970
+MD5sum: cf0b189e5725b4fb59dc4690f79488cf
+SHA1: 13947fa2251a2ade5dfa4b5f27c07b2b7bd4d29f
+SHA256: 475e37bcb053642b1f4307157b8b071d99d15e4f8280d4ce89734a93e92a6132
+Section: Widgets_
+Description: خلفيات ثري دي لشاشة القفل والشاشة الرئيسية بمجرد تحريك الهاتف بطريقه مميزه
+Author: beanamonster <benjamina@zoho.com>
+Name: Parallax Wallpapers ( Xen HTML )
+
+Package: com.arab-cydia.parallaxl
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Filename: ./debs/com.arab-cydia.parallaxl_1.0-1_iphoneos-arm.deb
+Size: 2594460
+MD5sum: e56dab03986594046a93933ab0c6fb0c
+SHA1: 39111589d83b835241cc464a1cfb1b28838f851a
+SHA256: 94c6a59dc47c320e02ece44575e8b958de9446256e7cdd976b42e78f25168df2
+Section: Widgets_
+Description: ويدجيت متحرك لشاشة القفل التفعيل عن طريق اداة XenHTML
+Author: OvercookedFish
+Name: parallax ( XenHTML )
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.arab-cydia.pascal
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.pascal_1.0-1_iphoneos-arm.deb
+Size: 4610
+MD5sum: 296d87d04a9775ce730b24a8f558fe10
+SHA1: e36cb9318d8394172d14687b97194921834d321a
+SHA256: b10eddeadce59ac402fe1ea45aab55e271b58ae344403ad5ae163db04aa90aa5
+Section: Tweak_
+Description: لتغيير شكل شريط مستوى الصوت
+Author: Antique
+Name: Pascal
+
+Package: com.arab-cydia.pbg
+Version: 1.0.0-2+debug-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 7360
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.pbg_1.0.0-2+debug-1_iphoneos-arm.deb
+Size: 6399362
+MD5sum: 7249f34cfd615415821565316bf0c0e4
+SHA1: 1f0f15218fc71125651a1b0ad77aaf175ef9c9e1
+SHA256: e841d8004c911cd613d53404c691c1a367cc26990afa570486b4b894c340b8ff
+Section: Tweak_
+Description: Google Pixel جعل خلفيات الايفون متحركة مثل هواتف
+Author: TechHax
+Name: PixelBG
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.arab-cydia.pearlretry
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 274
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.pearlretry_1.0-1_iphoneos-arm.deb
+Size: 28092
+MD5sum: fcc5a56c9158824732869bb6307009d4
+SHA1: 37abefa02c4dad8fb741566db8cff50817082fe7
+SHA256: 97a202ee3e4cbbc483802a0be78e76ea44678b56ca2c89589ad4a7247cda31b7
+Section: Tweak_
+Description: تأخير التعرف على بصمة الوجه في المرة التالية على الايفون اكس بعد تعذر التعرف عليها الى مدة انت تحددها.
+Author: TheHacKer
+Name: PearlRetry
+
+Package: com.arab-cydia.peek-a-boo
+Version: 11.0.3-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.peek-a-boo_11.0.3-1_iphoneos-arm.deb
+Size: 44492
+MD5sum: ab2895133dd7c60ee0e232fcc812f6ba
+SHA1: d31b56495e95dbff7d36fa895467817699a9a17e
+SHA256: b2c14b734d84ad2d28309ead38981604b292de4bc7f316f422a7ba34d045f916
+Section: Tweak_
+Description: دعم ميزة 3D-Touch للاجهزة الغير مدعومة                                                                                                                                   .
+Author: iOS Creatix <rwmeo2004@hotmail.com>
+Name: Peek-a-Boo
+
+Package: com.arab-cydia.pencilchargingindicator
+Version: 1.2~b3-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.pencilchargingindicator_1.2~b3-1_iphoneos-arm.deb
+Size: 65740
+MD5sum: 9462621dc19698a2a86c07a8adb13a95
+SHA1: ad7d232ed3a8d156b91d2823453217144d4d52cf
+SHA256: a6cbe9332d7950139b424005188b73d02923988bd81cb56fdbaddc2b7f4b1895
+Section: Supports IOS12.x
+Description: جلب انميشن  Apple Pencil iPad Pro عند التوصيل لشحن جهاز الايفون
+Author: shiftcmdk
+Name: PencilChargingIndicator
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.percentagebatteryx
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Conflicts: com.neinzedd9.percentagecirclex
+Filename: ./debs/com.arab-cydia.percentagebatteryx_1.0.2-1_iphoneos-arm.deb
+Size: 4912
+MD5sum: 3814191e6515abcdc2a232c4ed138543
+SHA1: 89db32a8d5b63ec8fb35c11cb560396f2bdedc50
+SHA256: 0a031095a819ebad5e8e936b3bebea35f541e363276107ff0f1073fcd799c98e
+Section: Tweak_
+Description: اضافة نسبة  الشحن في نفس ايقونة البطارية للايفون اكس
+Author: NeinZedd9
+Name: PercentageBatteryX
+
+Package: com.arab-cydia.percentagecirclex
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Conflicts: com.neinzedd9.percentagebatteryx
+Filename: ./debs/com.arab-cydia.percentagecirclex_1.0.1-1_iphoneos-arm.deb
+Size: 5318
+MD5sum: e784ae8bfe9056a7ab7309f291134a5f
+SHA1: 934b6d311e02ffa38f8d3f1819dce7cadc05943c
+SHA256: c78ed90fecd43d6ef653d26dad3cc9236c17e11918047b0ef75e58d956ddbaa5
+Section: Tweak_
+Description: جعل شكل البطارية للايفون اكس بشكل دائري
+Author: NeinZedd9
+Name: PercentageCircleX
+
+Package: com.arab-cydia.perfecttimex
+Version: 1.3.3-3-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Conflicts: com.mpg13.undertime, com.neinzedd9.dateundertimex, com.huchundong.weekrighttimex
+Filename: ./debs/com.arab-cydia.perfecttimex_1.3.3-3-1_iphoneos-arm.deb
+Size: 76118
+MD5sum: 7a5cf5571501bd134f1c5c4095d84559
+SHA1: f7ede867497edaa540f26963ccd9b51dad9d9026
+SHA256: 8eec52243e7c76cc5b0346941340255eeca8b55f3a791dfedb0fc7734ac9a185
+Section: Supports IOS12.x
+Description: عرض التاريخ أعلى الوقت في iPhone X
+Author: HuChundong <repo@hackyouriphone.org>
+Name: PerfectTimeX
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.perfecttimexs
+Version: 0.2.0-1
+Architecture: iphoneos-arm
+Maintainer: HuChundong <gycm520@163.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.mpg13.undertime, com.neinzedd9.dateundertimex, com.huchundong.weekrighttimex, com.huchundong.perfecttimex
+Filename: ./debs/com.arab-cydia.perfecttimexs_0.2.0-1_iphoneos-arm.deb
+Size: 58406
+MD5sum: 7710ca89319f99aa01dfa3ab4015a017
+SHA1: b10df5b852659906677c3ddd82ab20a646d44438
+SHA256: c657f5aa4fbf5dd2fddf8eccef138f94686d301d47d24f437ed3bbf1191b3286
+Section: Supports IOS12.x
+Description: اظهار الوقت مع اليوم والتاريخ في شريط الحاله فقط للاجهزة  iPhone X/S/MAX اعدادات الاداة في الصور
+Author: HuChundong <gycm520@163.com>
+Name: PerfectTimeXS
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.phantom
+Version: 5.3.8-6-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 22414
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all, com.cokepokes.libphantom
+Replaces: com.cokepokes.phlite
+Filename: ./debs/com.arab-cydia.phantom_5.3.8-6-1_iphoneos-arm.deb
+Size: 10103886
+MD5sum: 0e99d37b5ac6e83f1a422aa1f22692ee
+SHA1: 60df80a3912291b16e4bc4314e63fd5681ce5487
+SHA256: ba7b50edf86c623912944c5d4661d5160a04fd83892ec25d4af74108172dc5d8
+Section: Tweak_
+Priority: optional
+Description: Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection تعديل: @CydiaAbdullah
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Author: CokePokes <cokepokes@gmail.com>
+Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
+Name: Phantom (Lite) for Snapchat (unc0ver)
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.phantomcrack
+Version: 0.0.1-105-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.phantomcrack_0.0.1-105-1_iphoneos-arm.deb
+Size: 13650
+MD5sum: d8e24d6ed3363fe939a75b1a1d641985
+SHA1: 90c0914b933da9fe101c30c46293f01a8ae74e91
+SHA256: 075b00ecdf82f279de05f05dc3bc052aedec86ee180274151b7f17ba37443ca2
+Section: Supports IOS10.x
+Description: Phantom Crack
+Author: iTheGentle
+Name: Phantom Crack
+
+Package: com.arab-cydia.photodata12
+Version: 1.0.0~beta19-3
+Architecture: iphoneos-arm
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 568
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
+Conflicts: net.tateu.photodata
+Filename: ./debs/com.arab-cydia.photodata12_1.0.0~beta19-3_iphoneos-arm.deb
+Size: 80582
+MD5sum: 8a7cd0f311e41af7a5a6e8d767fd06e3
+SHA1: da466eeb11e65884a9f820653f8d6c676b4d6a4d
+SHA256: dea5fc765ece13dac5384c8da33c32e3b0e429e9a988950d4607ec0ddb25d89a
+Section: Supports IOS12.x
+Description: إظهار مقاس الصور وأحجامها في تطبيق الصور.
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Name: PhotoData12
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.photolockdown
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.photolockdown_1.0.1-1_iphoneos-arm.deb
+Size: 232530
+MD5sum: 7529f81d9d02d04da3d72801524f78f7
+SHA1: d3df7a8b2957a1f0232483590006047991918af3
+SHA256: 25cd88db7b419d7ad846c65f076e4b140718a8cd1f63617c1c0c4767f98aa224
+Section: Tweak_
+Description: ‏قفل صور معينة بكلمة سر او بصمة الاصبع او الوجه بهدف منع المتطفلين من رؤية هذه الصور
+Author: Frozen Penguin
+Name: PhotoLockdown
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.arab-cydia.photomanager
+Version: 1.3.3-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.arab-cydia.photomanager_1.3.3-1_iphoneos-arm.deb
+Size: 127280
+MD5sum: 16e4b0cff7d3559576d4c31eb029a007
+SHA1: cdf3cf1148be9561b4ff6ccaa13866e9cd580506
+SHA256: f1b74a47e7ca46b06871857a2d1bf2746bb6d1ff5c0f72f501660358f33f56a7
+Section: Tweak_
+Description: تضيف العديد من الخيارات لتطبيق الصور مثل اخفاء الالبوم او قفله بالبصمة وكلمة سر وتغيير عدد الصفوف والاعمدة ومميزات اخرى كثيرة
+Author: Frozen Penguin
+Icon: file:///Library/PreferenceBundles/photomanagerprefs.bundle/icon@2x.png
+Name: PhotoManager
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/>
+
+Package: com.arab-cydia.photomanager12
+Version: 1.0.1-2-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 1148
+Depends: mobilesubstrate, PreferenceLoader, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.arab-cydia.photomanager12_1.0.1-2-1_iphoneos-arm.deb
+Size: 372262
+MD5sum: d750451ebb26e67423e5bc3d4d819b6c
+SHA1: e443a6350d5934f059aaf57f8a022e2e63ba4efe
+SHA256: acb7f7ed63a4dbd449f413a52c2a700d9a92d14279c3bb3f401e52ec92862bf8
+Section: Supports IOS12.x
+Description: مميزات رهيبه لتطبيق الصور
+Author: Frozen Penguin
+Name: PhotoManager (iOS 12)
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.photores
+Version: 1.4-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 236
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), ws.hbang.common (>= 1.2)
+Conflicts: org.thebigboss.photores
+Filename: ./debs/com.arab-cydia.photores_1.4-1_iphoneos-arm.deb
+Size: 29250
+MD5sum: 8921f31e21c31c4fd318fb4aba29f483
+SHA1: 6f7e841005c073aa1eb1d891e739c1038c504c37
+SHA256: 11adc6bd54eff187ae9947fe6138b7d377d11259572922fe91e142a86fed2149
+Section: Tweak_
+Description: التقاط الصور بأي حجم.
+Author: Spica T
+Name: PhotoRes+
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.photosbytakendate
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.photosbytakendate_1.0.0-1_iphoneos-arm.deb
+Size: 68046
+MD5sum: 1732ec5c31ee7b8a66afcc2ebe9a2041
+SHA1: 602d9947de4e86d2ffca68cb30dc00b34ae9ccfd
+SHA256: f72e5e79765ddcc998e156bbc7d468c349972716f5b03ce7767a56584329c462
+Section: Tweak_
+Description: فرز الصور الخاصة بك عن طريق تاريخ التقاط الصورة
+Author: LonestarX <me@lonestarx.net>
+Icon: file:///Library/PreferenceBundles/PhotosByTakenDate.bundle/Icon@3x.png
+Name: PhotosByTakenDate
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/>
+
+Package: com.arab-cydia.photostimeline
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 258
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.arab-cydia.photostimeline_1.0.1-1_iphoneos-arm.deb
+Size: 121116
+MD5sum: 7121cad07054db577c868d2969294df2
+SHA1: a61b77a194b08fed7f33cf155d1e5cca6aafe436
+SHA256: fba3cc1ca214ef95e4c19c670202b00fe38601bd7f03bc540fa20294255d42cf
+Section: Tweak_
+Description: عرض التاريخ في تطبيق الصور عند تمرير الصور الى اعلى واسفل مثل تطبيق سناب شات.
+Tag: purpose::extension, compatible::ios11
+Author: LonestarX <me@lonestarx.net>
+Icon: file:///Library/PreferenceBundles/photostimeline.bundle/icon@2x.png
+Name: PhotosTimeline
+
+Package: com.arab-cydia.phototorch
+Version: 1.7-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 1292
+Depends: firmware (>= 6.0), gsc.camera-flash, mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.phototorch
+Replaces: org.thebigboss.phototorch
+Provides: org.thebigboss.phototorch
+Filename: ./debs/com.arab-cydia.phototorch_1.7-1_iphoneos-arm.deb
+Size: 154022
+MD5sum: 584d3dfd5c273d6c3d5921059818eefc
+SHA1: 571cd3688f44e59ffdf9f5b31395b628edad612b
+SHA256: 49c3a129ae6ffb9bd003b6ecf5f4270db1ed60d2c68a2e012dda0507d6ef60d9
+Section: Tweak_
+Description: التحكم في مقدار قوة الفلاش اثناء التصوير، ويمكنك ايضا تشغيل الفلاش قبل التقاط الصورة.
+Author: SpicaT
+Name: PhotoTorch
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.picobanners2
+Version: 0.0.1b2-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.picobanners2_0.0.1b2-1_iphoneos-arm.deb
+Size: 19422
+MD5sum: c5c1c3a993816977e5954b68d3a60ab0
+SHA1: 7d3924bf616b72c7ec39f3234ef346c20b6027b7
+SHA256: 5357b729ee1fc01d30568bb4a395c379f374bc953c29e1ce0f60750919fb8e01
+Section: Tweak_
+Description: الاشعارات بشكل انيق
+Author: Michele Primavera <support@dreamcode.it>
+Name: PicoBanners 2
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/>
+
+Package: com.arab-cydia.pikabu
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.pikabu_1.2-1_iphoneos-arm.deb
+Size: 296170
+MD5sum: 580407ec8b2502dcac10017a1614f315
+SHA1: d2eb8f1a033f649bc493806cb4882a914f80d165
+SHA256: 4e98e9cd8750a38fd8b975cdc9285ce839064932ca3b5bc8de4dfef28d713d87
+Section: Tweak_
+Description: نقل مؤشر الصوت الى الاعلى بشكل مصغر
+Author: Cham Jeffrey‬
+Name: Pikabu Premium
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.arab-cydia.pikapanel
+Version: 0.1.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debs/com.arab-cydia.pikapanel_0.1.0-1_iphoneos-arm.deb
+Size: 96760
+MD5sum: 7b6b077905248e70696d992ebf6c5836
+SHA1: 202380d6fe0f5b8a948bd03fe953f4309fec4053
+SHA256: 897fbd5a27347a94b1bbf2c3bae186236deab1e0493425810fef543df54c8d74
+Section: Tweak_
+Description: Side panel at anytime
+Author: Jeffrey Chan
+Name: PikaPanel
+Sponsor: Arab-Cydia <https://arab-cydia.com>
+
+Package: com.arab-cydia.pimport
+Version: 0.0~beta3a-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./debs/com.arab-cydia.pimport_0.0~beta3a-1_iphoneos-arm.deb
+Size: 474970
+MD5sum: 5abfb6514c9657d76fbadfad896e4189
+SHA1: 402ff70998ebfa945505f014c308c08ad8534c1c
+SHA256: 0618e658ef04edeb5f2b44f2b6e8ceb0d0bfc533c875922198e7d90c2776f28a
+Section: Tweak_
+Description: تسمح لك بااستيراد الصور من الروابط او من خلال فيلزا ومشاركة الصور عبر
+  WIFI
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/PImport.bundle/icon@2x.png
+Name: PImport
+
+Package: com.arab-cydia.pinchclosefolder
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 116
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.arab-cydia.pinchclosefolder_1.0.0-1_iphoneos-arm.deb
+Size: 3032
+MD5sum: 9480feb6b9234422e71e6aac2a0ece9c
+SHA1: 9f55e1df24480c10c2f0711f0026687de7c03a27
+SHA256: 2af22ff050ccb929e8de435732178dd3b744bc5192bbd9c02e3f858b52218c68
+Section: Tweak_
+Description: pinch the folder to close them.
+Tag: purpose::extension, compatible::ios11
+Author: Maddox <rustybalboadev@gmail.com>
+Name: PinchToCloseFolders
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.arab-cydia.playnice
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./debs/com.arab-cydia.playnice_0.0.1-1_iphoneos-arm.deb
+Size: 88026
+MD5sum: 78805cf05a7e5ab8a782cd789189b6d2
+SHA1: 195e2c19b7691df3df6a0231bb770e4db3b841eb
+SHA256: 7e03a412d8dfccf663baa6f31a403e6b75a77bbf74a5830b7ecd0e3ee8f5d491
+Section: Supports IOS12.x
+Description: Color the Now Playing section of Google Play Music using the current song's album art.
+Author: rob311 <rob@rob311.com>
+Name: PlayNice
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
 Package: com.arab-cydia.plugin
 Version: 1.0-1
@@ -12138,6 +12855,524 @@ Section: Tweak_
 Description: Show Kik users' profile pictures in ShortLook when you receive a Kik notification!
 Author: Jeff Rescignano
 Name: Kik Profile Pictures for ShortLook
+
+Package: com.arab-cydia.plusnoads
+Version: 0.0.1-16+debug-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 128
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.plusnoads_0.0.1-16+debug-1_iphoneos-arm.deb
+Size: 13762
+MD5sum: d04ec86105eabbb3932218b6bd971ad2
+SHA1: 040171b522ffde3e9c1d93ad7892836e00502ceb
+SHA256: 672635b1b957583acd046a12545e133fc4fa57755657b5fe44cd8014886f9253
+Section: Tweak_
+Description: ازالة الاعلانات من تطبيقات البلس Youtube ++, Twitter ++, Facebook ++, Instagram ++ and Whatsapp ++
+Author: Jake James
+Name: PlusNoAds
+
+Package: com.arab-cydia.portraitlock
+Version: 1.8.3-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 320
+Depends: mobilesubstrate, applist, preferenceloader
+Conflicts: com.myrepospace.ryst.portraitlock, com.hackingdartmouth.rotatelock
+Filename: ./debs/com.arab-cydia.portraitlock_1.8.3-1_iphoneos-arm.deb
+Size: 25476
+MD5sum: 2efc0bfd9f41e9627af7d49e30c7f827
+SHA1: 5c52dc0d39390b7c00eee502acf6616f92f643a7
+SHA256: 8e4a904d36cba0a6a2ead2f6db63524ed9a4d73cfa66accdeccba0902f7c54e9
+Section: Tweak_
+Description: تفعيل او الغاء تفعيل قفل دوران الشاشة بشكل تلقائي في تطبيقات انت تحددها.
+Author: ryst
+Icon: file:///Library/PreferenceBundles/PortraitLock.bundle/PortraitLock@2x.png
+Name: Portrait Lock
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.arab-cydia.powerapp
+Version: 4.3.1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Pre-Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
+Conflicts: com.dave1482.powerappbeta
+Filename: ./debs/com.arab-cydia.powerapp_4.3.1-1_iphoneos-arm.deb
+Size: 237806
+MD5sum: 4c0bae3502fb87a86237da87602d86e1
+SHA1: 06729330622ca5e74e64a634af79153c8192a7d9
+SHA256: 13395cb0443c5137287ca915dda52f14bd33368c24a04b6cf72d9a5d58d5b57f
+Section: Utilities_
+Description: الوصول السريع لخيارات الطاقة Reboot, Shutdown, Respring, Safemode
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Dave1482 <dave1482@dave1482.com>
+Icon: file:///Applications/PowerApp.app/Icon.png
+Name: PowerApp
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.powerbar
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 384
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.arab-cydia.powerbar_1.2-1_iphoneos-arm.deb
+Size: 32890
+MD5sum: f03d53862fc6d34c9871afe42ae5fe9d
+SHA1: cce4c8c2d02e8a7728a67c93358e4b70e952bdf9
+SHA256: af9a2042aed21b2cb2e4ca8ebf2c4959f12b18b51a754b2602e758906ceda006
+Section: Tweak_
+Description: تضيف الاداة شريط فوق البار العلوي بمستوى حالة البطارية
+Author: Skyler Kansala
+Name: PowerBar
+Sponsor: Arab-Cydia <https://arab-cydia.com>
+
+Package: com.arab-cydia.powerccmodules
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate, firmware(>=11.0)
+Filename: ./debs/com.arab-cydia.powerccmodules_0.1-1_iphoneos-arm.deb
+Size: 71820
+MD5sum: 894bc14decfeb295d066511d681ac488
+SHA1: ce6502358c6bc5eaa0922b94a86d6b60fbf77d09
+SHA256: 253283f4a8f72e4718a01dec56cd0b9813c76f3673a83df8dfc892f87b447d3f
+Section: Addons_
+Priority: optional
+Description: ‫اضافة خيارات الريسبرنج، السيف مود، ايقاف التشغيل، واعادة التشغيل الى مركز التحكم‬
+Author: Hiraku <dev@hiraku.tw>
+Name: PowerCCModules
+
+Package: com.arab-cydia.powerdown
+Version: 1.3.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 260
+Depends: mobilesubstrate, com.midnightchips.ldrun
+Filename: ./debs/com.arab-cydia.powerdown_1.3.0-1_iphoneos-arm.deb
+Size: 108596
+MD5sum: d65a8dc9c7f78486b3d41fe2a47d9e68
+SHA1: a61bcfaa35cc090edfee23a26624d0331a6c974e
+SHA256: d90d72dceee89cdcf27daa05308b41aa5efeae5c921e24229767a1ad033abfcf
+Section: Supports IOS12.x
+Description: اضافة خيارات الطاقة عبر الضغط على زر القفل
+  لا تعمل على iphone x
+Author: qwertyuiop1379
+Name: PowerDown
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.arab-cydia.powerguard
+Version: 2.0.2-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 516
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Filename: ./debs/com.arab-cydia.powerguard_2.0.2-1_iphoneos-arm.deb
+Size: 244680
+MD5sum: 7ba897a3dc99db2bfee5a28514a4b69d
+SHA1: ea60027ee613bfdaea061c9de8469da73b8b0eab
+SHA256: 6e07bb35521e3b52d265a25ce431c3a6bc5999544aeab4c1cfb95309560abbe7
+Section: Tweak_
+Description: منع اي شخص من إيقاف تشغيل الجهاز الا بعد استخدام Touch ID
+Author: PeterDev <djperter@icloud.com>
+Icon: file:///Library/PreferenceBundles/PowerGuardPrefs.bundle/icon@3x.png
+Name: PowerGuard
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.powermenux
+Version: 0.7-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 500
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.arab-cydia.powermenux_0.7-1_iphoneos-arm.deb
+Size: 136436
+MD5sum: 5ad4d54360a1cac0ad3cde449c46c2bb
+SHA1: 30127418faabead75e02e455c3c8b12a9b8e73dd
+SHA256: 280b6e5b53cd6596f71848bcda3074315726898b5af824648ac06635c377c3c4
+Section: Supports IOS12.x
+Description: خيارات متعدده عند الضغط المطول على زر الباور ( اغلاق الجهاز - وضع السيف مود ... الخ
+Author: MayBeMe <maybeme.tweak@gmail.com>
+Name: PowerMenuX BETA
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.powermodule
+Version: 0.2-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 732
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.arab-cydia.powermodule_0.2-1_iphoneos-arm.deb
+Size: 72040
+MD5sum: 09271728e1cfaacd5cb74619a17bd539
+SHA1: bfec105798a098dcf3478040ac1df47a6cecdb7f
+SHA256: 1d6507e11d9b1861d34e8d0a9632fb5c07d0aa463c85c0b3be2526b7419c4bdf
+Section: Supports IOS12.x
+Description: الوصول السريع لخيارات الطاقة لمركز التحكم وتجميعها في مربع واحد
+Author: Muirey03
+Icon: file:///Library/ControlCenter/Bundles/PowerModule.bundle/SettingsIcon@3x.png
+Name: PowerModule
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.powerselector11
+Version: 1.1-7-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Pre-Depends: firmware (>= 11.0)
+Depends: preferenceloader
+Conflicts: com.ichitaso.powerselector
+Filename: ./debs/com.arab-cydia.powerselector11_1.1-7-1_iphoneos-arm.deb
+Size: 267726
+MD5sum: 26e73fa9573cdf2ecda13710cdd35a40
+SHA1: 64a182acafa6edee50e5fc53180cd53ee5ee5f1d
+SHA256: 6d4e7dec55335c1f905d7d0874b3f1b11245189023d5d602e3078e7d799b1090
+Section: Supports IOS12.x
+Description: اضافة خيارات الطاقة مثل ايقاف التشغيل، اعادة التشغيل، ريسبرنج، سيف مود، الى مركز التحكم
+Author: ichitaso
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Name: PowerSelector (iOS 11)
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.arab-cydia.powerswitch
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 488
+Depends: mobilesubstrate, com.midnightchips.ldrun
+Filename: ./debs/com.arab-cydia.powerswitch_1.0.1-1_iphoneos-arm.deb
+Size: 142844
+MD5sum: 692a6a43574d3fa55376f4c7132a63f9
+SHA1: e984f99c15fc22ad6488178849032e1e00de0cce
+SHA256: 837c3046b3813472c73f51654d84e2e082ac984035f398f1179395ca20640e4e
+Section: Supports IOS12.x
+Description: الوصول السريع لخيارات الطاقة بااشكال جميله
+Author: smokin1337
+Name: PowerSwitch
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.predictionshortcuts
+Version: 1.6.1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), preferenceloader
+Filename: ./debs/com.arab-cydia.predictionshortcuts_1.6.1-1_iphoneos-arm.deb
+Size: 79206
+MD5sum: 652c56f50ac14c7fd4d66c7c06341d30
+SHA1: 2aa0dc0314a37b59c7f2de4731f627ac98b8018f
+SHA256: 939c7f384ad0e505b785ed9cbf8726dd5c9592a93fcd0b256b72592baf2123e8
+Section: Tweak_
+Description: ضع خيار تراجع و تحديد الكل و لصق مكان التنبؤ                                                                                                                             .
+Author: Frozen Penguin <penguins_can_fly@live.com>
+Icon: file:///Library/PreferenceBundles/predictionshortcuts.bundle/icon@2x.png
+Name: PredictionShortcuts
+
+Package: com.arab-cydia.preferenceorganizer2
+Version: 4.0.6
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 1952
+Depends: mobilesubstrate, preferenceloader (>= 2.2.3), firmware (>= 6.0)
+Conflicts: com.phillipt.noappsettings, jp.r-plus.cloaky, com.repo.xarold.com.cloaky, me.qusic.preferenceorganizer, com.sull.preferenceorganizer, com.sull.preferenceorganizer2, com.repo.xarold.com.preferenceorganizer2, com.sull.preferenceorganizer7
+Filename: ./debs/com.arab-cydia.preferenceorganizer2_4.0.6_iphoneos-arm.deb
+Size: 1387938
+MD5sum: 238d3f8d7100b8a6e3d5f118e5122a81
+SHA1: 86f76a6ce29a0ec593cf7e3099a8ea14d545e19a
+SHA256: 9ec3e8e678fe1e3594c0b73a5c9bb8f58edc5b7cb6d7ff70261c3422d4fa7682
+Section: Supports IOS12.x
+Description: تجميع تطبيقات النظام، والتطبيقات، والادوات، كل واحدة في مجلد منفرد لتسهيل الوصول اليها في الاعدادات لاتدعم A12(X)
+Author: Karen, Hiraku, Gary, Eliz, insanj
+Icon: file:///Library/PreferenceBundles/POPreferences.bundle/Tweaks@2x.png
+Name: PreferenceOrganizer 2
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.preferredrotation
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 290
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.arab-cydia.preferredrotation_0.0.2-1_iphoneos-arm.deb
+Size: 18298
+MD5sum: f6a3d9e3e7377dc4b75667b9a981c607
+SHA1: 609b144d8580751c680143081ded22560fde2169
+SHA256: e9fdeae2b6fb2bd91c1b1d5368995b8bbb8984d9604ad63d855ad55452af2ab7
+Section: Tweak_
+Description: اجبار الجهاز على التدوير فقط إلى الاتجاه المفضل
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: PreferredRotation
+
+Package: com.arab-cydia.premiumplay
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 100
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.arab-cydia.premiumplay_1.1-1_iphoneos-arm.deb
+Size: 5938
+MD5sum: 6be6bdaf0f7efe6f86817f49a9172f0a
+SHA1: 847695f142eaf7a423630dad8001c383696a5e98
+SHA256: 08600842e26ec88c0f63e6090aa9a9b71c39d8396e1eae816cbb94b8a1de5d36
+Section: Tweak_
+Description: لتفعيل ميزة
+ Airplay
+ في بعض التطبيقات
+ ( لايوجد اعدادات  للاداة )
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Author: Tony Kraft <iostonykraft@gmail.com>
+Name: PremiumPlay
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.primalfolder
+Version: 0.0.5-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 408
+Depends: firmware (>= 10.0), mobilesubstrate , preferenceloader
+Conflicts: me.qusic.taptapfolder
+Replaces: com.ichitaso.primalfolder
+Filename: ./debs/com.arab-cydia.primalfolder_0.0.5-1_iphoneos-arm.deb
+Size: 57934
+MD5sum: dd18ef2251a822ecb95bfd5b35d960ca
+SHA1: 5a8c4135dbfcb6bb96db96c0762a682e7f7620ae
+SHA256: fd888ce9a50553d80403d2febb7341c62407f2bfcc6dcd0ec0af5c51a972c0a5
+Section: Tweak_
+Description: اخفاء التطبيقات التي بالمجلدات عن طريق اظهار ايقونة اول تطبيق في المجلد فقط
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+Author: ichitaso <willfeeltips+pf@gmail.com>
+Icon: file:///Library/PreferenceBundles/PrimalFolderSettings.bundle/PrimalFolder@2x.png
+Name: PrimalFolder
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.arab-cydia.priorityhub
+Version: 2.0-365+debug-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate, preferenceloader, applist, com.yourepo.kiiimo.consolidation
+Conflicts: com.creaturecoding.consolidation
+Filename: ./debs/com.arab-cydia.priorityhub_2.0-365+debug-1_iphoneos-arm.deb
+Size: 74154
+MD5sum: 9122267ae761333d509ca5ef3ea14525
+SHA1: 1903d02f0e431b1ec86b953029e343abdb6b8614
+SHA256: b530f489ee9bd80cc6974cfb173fa73cf06492d4355bd7c29de446fff6636ba5
+Section: Supports IOS10.x
+Description: Organize your notifications on the LS and NC. this package was originaly developed by Thomas Finch.
+Author: CreatureSurvive
+Name: Priority Hub 2 ALPHA
+
+Package: com.arab-cydia.priorityhub11
+Version: 0.0.9-2-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.arab-cydia.priorityhub11_0.0.9-2-1_iphoneos-arm.deb
+Size: 54200
+MD5sum: 7c5356c5dd7a243ba00cb84135cfa3db
+SHA1: faebb9b21f37c0cb7f359bbebb30854a501e6a02
+SHA256: 25ea52548a8df33732f1fe97e9ba1f85607c4970820a7cb6e8ce32621dffcca2
+Section: Tweak_
+Description: عرض وترتيب الاشعارات في شاشة القفل ومركز الاشعارات في شكل مجموعات
+Author: Thomas Finch <tomf64@gmail.com>
+Name: Priority Hub
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.arab-cydia.priorityhub12
+Version: 1-1+debug-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 252
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.arab-cydia.priorityhub12_1-1+debug-1_iphoneos-arm.deb
+Size: 48004
+MD5sum: 0821ccfe4c2210026c44dbd0ef088fbd
+SHA1: ab546c4a659c901dd02fbd688701d615fd6512d1
+SHA256: 6a087170499a518487604dccafe5b858c314dbf78aa888b993952762d3eb9a59
+Section: Supports IOS12.x
+Description: تجميع الاشعارات بشاشة القفل ومركز الاشعارات بشكل جميل وانيق
+Author: Thomas Finch <tomf64@gmail.com>
+Name: PriorityHub for iOS 12
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.privasee
+Version: 1.0.7k-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Pre-Depends: com.spark.libsparkapplist
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.privasee_1.0.7k-1_iphoneos-arm.deb
+Size: 1245108
+MD5sum: c65b52e2448eb359c651742041dbc6c1
+SHA1: 4c237c69b698381abe72d60372d70eb1874cbb4e
+SHA256: f31ce2867756acc8fdc306789188803f107897545254f158182b47c073d37160
+Section: Tweak_
+Description: لقفل التطبيقات ببصمة الوجة او الاصبع واضافة خصوصية اكثر للاشعارات
+Author: smokin1337
+Name: PrivaSee
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.proudlock
+Version: 0.2-1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 656
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: gsc.main-screen-width (= 1125), gsc.main-screen-height (= 2436)
+Filename: ./debs/com.arab-cydia.proudlock_0.2-1-1_iphoneos-arm.deb
+Size: 89364
+MD5sum: 9e40f12bd2dc64dae8536e2f2e58cef6
+SHA1: 16b8f223489fbfb5d62bb7a305e07040b09fd9ef
+SHA256: 65e179bf38d4f562540b8e1c79c51549174e0bd4d71bccf03df59bf3f4324649
+Section: Tweak_
+Description: لإضافة شكل القفل في شاشة قفل الـ
+ iPhone X
+ للأجهزة التي لاتدعم بصمة الوجه
+Author: Sniper_GER <sniperger@festival.ml>
+Name: ProudLock
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.arab-cydia.proximitus
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 324
+Depends: mobilesubstrate, preferenceloader, com.laughingquoll.prefixui, com.opa334.ccsupport, net.limneos.libbulletin
+Filename: ./debs/com.arab-cydia.proximitus_1.0.1-1_iphoneos-arm.deb
+Size: 58190
+MD5sum: 94efbdf99cc24978e99834aaa7c8a074
+SHA1: 1c0b8f6534e4445d434fd1fdc43b7ac3a9d1f44b
+SHA256: feee4677475cd6ecb0239751acf59973327c5a0597a9410e1897645e14792822
+Section: Supports IOS12.x
+Description: ارسال تنبيه بشكل اشعار في حال اتصال / فصل اي جهاز بلوتوث بالايفون الخاص بك
+Author: LaughingQuoll
+Name: Proximitus
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.pubg
+Version: 1.4-1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.pubg_1.4-1-1_iphoneos-arm.deb
+Size: 3856
+MD5sum: afc9d3e728866d6bf5c22a5f8c64dcf2
+SHA1: e5f74df7a938a83e5ebdaa45401ced3aebffe517
+SHA256: c1dcf7f458806202ab871e7731ff11ea04dc5bbbc1c030e229e2377a4c6b38d6
+Section: Tweak_
+Description: تخطي كشف لعبة
+ Pubg للجلبريك
+Author: Mohammed Ghzayel
+Name: PubgJailbreak
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.arab-cydia.pulloverpro
+Version: 1.4-2k-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Filename: ./debs/com.arab-cydia.pulloverpro_1.4-2k-1_iphoneos-arm.deb
+Size: 5778186
+MD5sum: 24310fb7467422cc96a9ce7292803048
+SHA1: 9cd3ef7786dbba5c1819071e7f8119e98f918c4a
+SHA256: 903e0541ba07bfa2ba6c86ef0a21be24cd458c74aa52cc276b844f15838eb070
+Section: Supports IOS12.x
+Description: يتيح لك تطبيق  "تثبيت" أحد التطبيقات بحيث يكون متاحًا دائمًا أينما كنت على جهازك
+Author: c1d3r  <repo@Arab-Cydia.com>
+Name: PullOver Pro ( Cracked )
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.pulltorespring
+Version: 1.2-1+debug-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 128
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.pulltorespring_1.2-1+debug-1_iphoneos-arm.deb
+Size: 16512
+MD5sum: d779c5c83327c93bdf7347cf12aa4d9f
+SHA1: 5366e4dc789162f0c02c765bed2bed7d62d75c9f
+SHA256: ae1733714d99b8a8c482562cc4cf66d30239f2f828c9005f31ed57d390b404cd
+Section: Supports IOS12.x
+Description: لعمل ريسبيرنج للجهاز من خلال سحب الشاشه الي اسفل داخل تطبيق الاعدادات
+Author: Noah Saso <noahsaso@gmail.com>
+Name: PullToRespring
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.pulsechargex
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.pulsechargex_1.0-1_iphoneos-arm.deb
+Size: 3936
+MD5sum: ec2dcf29ac58f5434819d02ded4b8242
+SHA1: 26a430b5319f5e38282c9afe418b6f4724fc27c1
+SHA256: 98188c673d412c01072c83a4d2cbed561df159026f32d61bf2ee7ba9637a1c49
+Section: Tweak_
+Description: وميض جميل للبطارية اثناء الشحن
+  ( iPhone X )
+Author: dunkston
+Name: PulseChargeX
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.arab-cydia.qlocktwo
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Filename: ./debs/com.arab-cydia.qlocktwo_1.0-1_iphoneos-arm.deb
+Size: 76014
+MD5sum: f23f6a3f3d064bbfbee57765965c9e24
+SHA1: 312bcf2fae430b31bc8a450e2dc850bcc74387d7
+SHA256: 1ce157a86a2d03be188289eb7f38e35bdde9518aa019c8d692de351be5574746
+Section: Widgets_
+Description: ويدجيت للشاشه الرئيسية التقعيل عن طريق XenHTML
+Author: JeffResc
+Name: QLockTwo
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.arab-cydia.quart
+Version: 1.1.2
+Filename: ./debs/com.arab-cydia.quart_1.1.2_iphoneos-arm.deb
+Size: 1065478
+MD5sum: dc98292163e2426032e3b5eaa4a0c1d0
+SHA1: 98560b9c5c9bcece52a7227791e83c58669e3314
+SHA256: 5b7b1e4a67c3f63ca37c82a852ecfa7f8e985bf1a654407410d01bd234cba9b4
+Description: Notifications, redefined.
+
+Package: com.arab-cydia.quickunlock11
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Conflicts: com.phillipt.quickunlock
+Filename: ./debs/com.arab-cydia.quickunlock11_1.0-1_iphoneos-arm.deb
+Size: 7436
+MD5sum: 8a11d778591fb47a7c80dc34f6ae2e18
+SHA1: b15229fdc1939cac2ab8448b63cbf4c3d3437565
+SHA256: 57d87946f9a31912dd8bd3c52cabaf352f4550ec7c62eabaa6d461baf181d60a
+Section: Tweak_
+Description: تخطي رمز القفل في وفتحه بشكل سريع بمجرد الضغط على زر الهوم اذا لم يكن في اشعارات على شاشة القفل
+Author: Phillip Tennen, julioverne
+Name: QuickUnlock (iOS 11)
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/repo/>
+
+Package: com.arab-cydia.quickwifi11
+Version: 0.1-1-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate
+Conflicts: com.bensge.wipi, com.ichitaso.quickwifi
+Filename: ./debs/com.arab-cydia.quickwifi11_0.1-1-1_iphoneos-arm.deb
+Size: 23854
+MD5sum: 075f878cefbca0cfd0b7857b02c00147
+SHA1: 4256b01e4d4ca30e28aae0de4f6c31925e282fde
+SHA256: b429b0d332f9b3263bf376a1ba7bb6266366db3b77311bd8d9f0a59a580740e2
+Section: Tweak_
+Description: الوصول السريع للشبكات المتاحة من مركز التحكم
+Author: ichitaso
+Name: QuickWiFi (CCSuport)
+Sponsor: Arab-Cydia <https://www.arab-cydia.com/>
 
 Package: com.arab-cydia.roundedcorners11
 Version: 1.0.3-3-1
@@ -12822,6 +14057,26 @@ Section: Tweak_
 Description: تمكنك من عمل نسخة احتياطية لجميع ملفات الجهاز من تطبيقات وادوات ومكالمات و غيرهم الكثير والاستعادة لاحقا في اي وقت بكل سهولة
 Author: SynnyG
 Name: BackupAZ 3 ( Cracked )
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: com.pulandres.pasithea2n
+Version: 2.1.3-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Installed-Size: 1808
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), applist (>= 1.5.9), net.angelxwind.karenlocalizer, firmware (>= 11.0) | com.ichitaso.pasithea2flipswitch
+Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea
+Replaces: com.ichitaso.pasithea2
+Filename: ./debs/com.pulandres.pasithea2n_2.1.3-1_iphoneos-arm.deb
+Size: 540262
+MD5sum: f583205f6c8072e2ac0a03b840b791a6
+SHA1: ebb88412ec7ccfd9d0d89b6e38d728dfd4ce43d1
+SHA256: 75da0a47d1015502681ebf9a7b78ef4e4967cc7d708f7a74f6826d9454165628
+Section: Tweak_
+Description: حفظ كل النصوص التي يتم نسخها والوصول اليها في اي مكان عن طريق كيبورد خاص بالاداة، مع امكانية تفضيل عدة نصوص لا يتم حذفها بعد تخطي الحد المسموح به.
+Author: Cannathea <csupport@cannathea.com>
+Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
+Name: Pasithea 2 Cracked
 Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
 Package: com.repo.xarold.irespringex
